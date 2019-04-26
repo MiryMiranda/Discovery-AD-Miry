@@ -1,6 +1,6 @@
 # Data Analysis Task
 
-Task description and data for candidates applying to be a Data Analyst in the [Discovery department](https://www.mediawiki.org/wiki/Wikimedia_Discovery) at [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Home).
+Task description and data for candidates applying to be a Data Analyst in Adevinta Spain 
 
 ## Background
 
